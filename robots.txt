@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fichoozahv.eppico.pe/sitemap.xml
